@@ -1,0 +1,225 @@
+{
+  "project_info": {
+    "project_number": "320227298327",
+    "firebase_url": "https://phoneauth-6de00.firebaseio.com",
+    "project_id": "phoneauth-6de00",
+    "storage_bucket": "phoneauth-6de00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320227298327:android:c6119ec3080c590bf7e052",
+        "android_client_info": {
+          "package_name": "com.a1manstartup.travel_budget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320227298327-e8srsk5ir8rhlp8iiidskbl82m5a8moa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.a1manstartup.travel_budget",
+            "certificate_hash": "1c1eaa23f260bbf6bd14e45f4a440f9a4a052fb0"
+          }
+        },
+        {
+          "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPKD3WckKUWEZirUEynsPbo2Ch3IgY6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320227298327:android:5b0aed77a737e76af7e052",
+        "android_client_info": {
+          "package_name": "com.indonewstream.gftlog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320227298327-coeru7c6daq227js6p0ubs4dlr9gaopd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indonewstream.gftlog",
+            "certificate_hash": "1c1eaa23f260bbf6bd14e45f4a440f9a4a052fb0"
+          }
+        },
+        {
+          "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPKD3WckKUWEZirUEynsPbo2Ch3IgY6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320227298327:android:254048f9493bcb35f7e052",
+        "android_client_info": {
+          "package_name": "com.indonewstream.googleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPKD3WckKUWEZirUEynsPbo2Ch3IgY6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320227298327:android:73c72a063345f47cf7e052",
+        "android_client_info": {
+          "package_name": "com.indonewstream.phone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320227298327-a4i9i3d635dgpetu6crm0so8ej265pd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indonewstream.phone",
+            "certificate_hash": "1c1eaa23f260bbf6bd14e45f4a440f9a4a052fb0"
+          }
+        },
+        {
+          "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPKD3WckKUWEZirUEynsPbo2Ch3IgY6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320227298327:android:aa2cfdd48ce83796f7e052",
+        "android_client_info": {
+          "package_name": "com.indonewstream.phoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320227298327-4t20878snfdb5hqqcm4q12i3r5qtktd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indonewstream.phoneauth",
+            "certificate_hash": "1c1eaa23f260bbf6bd14e45f4a440f9a4a052fb0"
+          }
+        },
+        {
+          "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPKD3WckKUWEZirUEynsPbo2Ch3IgY6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320227298327:android:73a94c11c76f489bf7e052",
+        "android_client_info": {
+          "package_name": "com.indonewstream.resetemail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320227298327-g49v2gsimer2rljdclug8cltbqiv5q0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indonewstream.resetemail",
+            "certificate_hash": "1c1eaa23f260bbf6bd14e45f4a440f9a4a052fb0"
+          }
+        },
+        {
+          "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPKD3WckKUWEZirUEynsPbo2Ch3IgY6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320227298327-ggvdn2oiimeri7khiin1n63pnds3t5ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
